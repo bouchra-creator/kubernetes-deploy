@@ -2,10 +2,10 @@
 
 
 ### Description du projet
-Dans ce projet , on va automatiser les déploiements vers Kubernetes avec CircleCIker:
- - Utilisation du  CircleCI pour déployer l'application do-simple-app vers un Kubernetes cluster.
- - Interation du CircleCI avec les dépots de GitHub .
- - Applicuation de ces techniques pour déployer d'autres outils CI/CD qui peuvent être construits sous forme d'images Docker.
+Dans ce projet , on va automatiser les déploiements vers Kubernetes avec CircleCI:
+ - Utilisation du  CircleCI pour déployer l'application <do-simple-app> vers un Kubernetes cluster.
+ - Interaction  du CircleCI avec les dépots de GitHub .
+ - Application  de ces techniques pour déployer d'autres outils CI/CD qui peuvent être construits sous forme d'images Docker.
 
 
 ### Prérequis
